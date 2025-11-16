@@ -28,18 +28,18 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "<svg class=\"h-4 w-4 secondary-opacity group-hover:fill-primary-dark bg-primary group-hover:bg-primary dark:bg-primary-light dark:group-hover:bg-primary-light\" style=\"-webkit-mask-image:url(https://d3gk2c5xim1je2.cloudfront.net/v7.1.0/solid/book-open.svg);-webkit-mask-repeat:no-repeat;-webkit-mask-position:center;mask-image:url(https://d3gk2c5xim1je2.cloudfront.net/v7.1.0/solid/book-open.svg);mask-repeat:no-repeat;mask-position:center\"></svg>"
+          "href": "https://docs.sourholdings.xyz",
+          "icon": "book-open"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Discord Server",
+          "href": "https://solar.sourholdings.xyz",
+          "icon": "message-circle-more"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Status Tracker",
+          "href": "https://status.sourholdings.xyz",
+          "icon": "chart-no-axes-column-increasing"
         }
       ]
     }
