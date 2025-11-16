@@ -15,9 +15,7 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": [
-              "index"
-            ]
+            "pages": ["index"]
           }
         ]
       },
@@ -31,7 +29,7 @@
         {
           "anchor": "Documentation",
           "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "icon": "<svg class=\"h-4 w-4 secondary-opacity group-hover:fill-primary-dark bg-primary group-hover:bg-primary dark:bg-primary-light dark:group-hover:bg-primary-light\" style=\"-webkit-mask-image:url(https://d3gk2c5xim1je2.cloudfront.net/v7.1.0/solid/book-open.svg);-webkit-mask-repeat:no-repeat;-webkit-mask-position:center;mask-image:url(https://d3gk2c5xim1je2.cloudfront.net/v7.1.0/solid/book-open.svg);mask-repeat:no-repeat;mask-position:center\"></svg>"
         },
         {
           "anchor": "Community",
